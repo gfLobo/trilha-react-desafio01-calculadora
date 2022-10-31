@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/trilha-react-desafio01-calculadora/static/js/main.cb88f116.js",
+    "main.js": "/trilha-react-desafio01-calculadora/static/js/main.69f5fc81.js",
     "index.html": "/trilha-react-desafio01-calculadora/index.html",
-    "main.cb88f116.js.map": "/trilha-react-desafio01-calculadora/static/js/main.cb88f116.js.map"
+    "main.69f5fc81.js.map": "/trilha-react-desafio01-calculadora/static/js/main.69f5fc81.js.map"
   },
   "entrypoints": [
-    "static/js/main.cb88f116.js"
+    "static/js/main.69f5fc81.js"
   ]
 }
